@@ -11,3 +11,4 @@ Returns 0 otherwise
 Prototype: int _isalpha(int c);
 Returns 1 if c is a letter, lowercase or uppercase
 Returns 0 otherwise
+5. A function that prints the sign of a number.
