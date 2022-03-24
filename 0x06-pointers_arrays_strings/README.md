@@ -9,5 +9,5 @@
 8. A function that encodes a string using rot13.
 9. A function that prints an integer.
 10. Add one line to this code, so that the program prints a[2] = 98, followed by a new line.
-
+11. A function that adds two numbers.
 
